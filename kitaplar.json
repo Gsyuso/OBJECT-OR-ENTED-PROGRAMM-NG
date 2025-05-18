@@ -1,0 +1,26 @@
+[
+    {
+        "kitap_id": "1",
+        "ad": "SEFİLLER",
+        "yazar": "VİCTOR HUGO",
+        "aciklama": "",
+        "kapak_yolu": "",
+        "odunc_alindi_mi": false
+    },
+    {
+        "kitap_id": "2",
+        "ad": "OD",
+        "yazar": "İSKENDER PALA",
+        "aciklama": "",
+        "kapak_yolu": "",
+        "odunc_alindi_mi": true
+    },
+    {
+        "kitap_id": "3",
+        "ad": "ÇALIKUŞU",
+        "yazar": "REŞAT NURİ GÜNTEKİN",
+        "aciklama": "",
+        "kapak_yolu": "",
+        "odunc_alindi_mi": true
+    }
+]

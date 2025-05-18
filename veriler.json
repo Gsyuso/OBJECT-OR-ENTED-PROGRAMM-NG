@@ -1,0 +1,107 @@
+{
+    "urunler": [
+        {
+            "urun_id": "1",
+            "ad": "HAMBURGER",
+            "fiyat": 150.0,
+            "stok": 97,
+            "kategori": "Fast Food"
+        },
+        {
+            "urun_id": "2",
+            "ad": "PİZZA",
+            "fiyat": 150.0,
+            "stok": 98,
+            "kategori": "Fast Food"
+        },
+        {
+            "urun_id": "3",
+            "ad": "SU",
+            "fiyat": 15.0,
+            "stok": 498,
+            "kategori": "İçecek"
+        },
+        {
+            "urun_id": "4",
+            "ad": "KOLA",
+            "fiyat": 35.0,
+            "stok": 496,
+            "kategori": "İçecek"
+        },
+        {
+            "urun_id": "5",
+            "ad": "ÇOBAN SALATA",
+            "fiyat": 100.0,
+            "stok": 199,
+            "kategori": "Salata"
+        },
+        {
+            "urun_id": "6",
+            "ad": "ÇAY",
+            "fiyat": 20.0,
+            "stok": 500,
+            "kategori": "İçecek"
+        }
+    ],
+    "musteriler": [
+        {
+            "musteri_id": "1",
+            "ad": "KEREM",
+            "adres": "asd",
+            "telefon": "0555 555 55 55",
+            "email": "asd@gmail.com"
+        },
+        {
+            "musteri_id": "2",
+            "ad": "YUSUF",
+            "adres": "dsa",
+            "telefon": "0555 555 55 55",
+            "email": "dsa@gmail.com"
+        }
+    ],
+    "siparisler": [
+        {
+            "siparis_no": 1,
+            "musteri_id": "1",
+            "urunler_adet": [
+                {
+                    "urun_id": "2",
+                    "adet": 2
+                },
+                {
+                    "urun_id": "5",
+                    "adet": 1
+                },
+                {
+                    "urun_id": "4",
+                    "adet": 2
+                },
+                {
+                    "urun_id": "3",
+                    "adet": 1
+                }
+            ],
+            "durum": "Teslim Edildi"
+        },
+        {
+            "siparis_no": 2,
+            "musteri_id": "2",
+            "urunler_adet": [
+                {
+                    "urun_id": "1",
+                    "adet": 3
+                },
+                {
+                    "urun_id": "4",
+                    "adet": 2
+                },
+                {
+                    "urun_id": "3",
+                    "adet": 1
+                }
+            ],
+            "durum": "Teslim Edildi"
+        }
+    ],
+    "siparis_sayaci": 3
+}

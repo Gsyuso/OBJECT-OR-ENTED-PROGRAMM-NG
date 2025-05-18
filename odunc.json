@@ -1,0 +1,14 @@
+[
+    {
+        "uye_id": "1",
+        "kitap_id": "2",
+        "odunc_tarihi": "2025-05-18",
+        "iade_tarihi": "2025-06-01"
+    },
+    {
+        "uye_id": "2",
+        "kitap_id": "3",
+        "odunc_tarihi": "2025-05-18",
+        "iade_tarihi": "2025-06-01"
+    }
+]

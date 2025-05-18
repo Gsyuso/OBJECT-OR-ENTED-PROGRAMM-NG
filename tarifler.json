@@ -1,0 +1,119 @@
+{
+    "tarifler": [
+        {
+            "ad": "Spagetti Bolognese",
+            "malzemeler": [
+                {
+                    "ad": "Spagetti",
+                    "miktar": "200 gram"
+                },
+                {
+                    "ad": "Kıyma",
+                    "miktar": "250 gram"
+                },
+                {
+                    "ad": "Domates",
+                    "miktar": "2 adet"
+                },
+                {
+                    "ad": "Soğan",
+                    "miktar": "1 adet"
+                },
+                {
+                    "ad": "Sarımsak",
+                    "miktar": "2 diş"
+                },
+                {
+                    "ad": "Zeytinyağı",
+                    "miktar": "2 yemek kaşığı"
+                },
+                {
+                    "ad": "Tuz",
+                    "miktar": "1 tatlı kaşığı"
+                },
+                {
+                    "ad": "Karabiber",
+                    "miktar": "1 çay kaşığı"
+                }
+            ],
+            "icerik": "Önce soğan ve sarımsakları doğrayıp zeytinyağında kavurun. Ardından kıymayı ekleyin ve kavurmaya devam edin. Domatesleri rendeleyip kıymaya ekleyin. Tuz ve karabiberi serpip 15 dakika pişirin. Bu sırada spagettiyi haşlayın. Sos ile karıştırarak servis yapın.",
+            "puanlar": [
+                3,
+                4,
+                5
+            ]
+        },
+        {
+            "ad": "Tavuklu Pilav",
+            "malzemeler": [
+                {
+                    "ad": "Pirinç",
+                    "miktar": "1 su bardağı"
+                },
+                {
+                    "ad": "Tavuk göğsü",
+                    "miktar": "200 gram"
+                },
+                {
+                    "ad": "Tereyağı",
+                    "miktar": "1 yemek kaşığı"
+                },
+                {
+                    "ad": "Tavuk suyu",
+                    "miktar": "2 su bardağı"
+                },
+                {
+                    "ad": "Tuz",
+                    "miktar": "1 çay kaşığı"
+                }
+            ],
+            "icerik": "Pirinci tuzlu suda 20 dakika bekletin. Tereyağında doğranmış tavukları kavurun. Üzerine pirinci ekleyip 2 dakika daha kavurun. Tavuk suyunu ve tuzu ekleyip kapağını kapatın. Kısık ateşte suyunu çekene kadar pişirin.",
+            "puanlar": [
+                5,
+                4
+            ]
+        },
+        {
+            "ad": "Mercimek Çorbası",
+            "malzemeler": [
+                {
+                    "ad": "Kırmızı mercimek",
+                    "miktar": "1 su bardağı"
+                },
+                {
+                    "ad": "Havuç",
+                    "miktar": "1 adet"
+                },
+                {
+                    "ad": "Patates",
+                    "miktar": "1 adet"
+                },
+                {
+                    "ad": "Soğan",
+                    "miktar": "1 adet"
+                },
+                {
+                    "ad": "Sıvı yağ",
+                    "miktar": "2 yemek kaşığı"
+                },
+                {
+                    "ad": "Tuz",
+                    "miktar": "1 tatlı kaşığı"
+                },
+                {
+                    "ad": "Su",
+                    "miktar": "5 su bardağı"
+                }
+            ],
+            "icerik": "Sebzeleri doğrayın. Tüm malzemeleri tencereye alın. Kapağını kapatıp 30 dakika pişirin. Blenderdan geçirerek pürüzsüz hale getirin. Üzerine isteğe bağlı pul biber ve limonla servis edin.",
+            "puanlar": [
+                5,
+                3
+            ]
+        }
+    ],
+    "favoriler": [
+        "Tavuklu Pilav",
+        "Mercimek Çorbası"
+    ]
+}

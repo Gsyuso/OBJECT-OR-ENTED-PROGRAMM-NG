@@ -1,0 +1,83 @@
+{
+    "araclar": {
+        "1": {
+            "model": "BMW",
+            "ucret": 2000.0,
+            "kiralama_durumu": true
+        },
+        "2": {
+            "model": "LAMBORGH\u0130N\u0130",
+            "ucret": 5000.0,
+            "kiralama_durumu": true
+        },
+        "3": {
+            "model": "OPEL",
+            "ucret": 500.0,
+            "kiralama_durumu": false
+        },
+        "4": {
+            "model": "RENAULT",
+            "ucret": 500.0,
+            "kiralama_durumu": true
+        },
+        "5": {
+            "model": "MERCEDES",
+            "ucret": 2000.0,
+            "kiralama_durumu": false
+        },
+        "6": {
+            "model": "AUD\u0130",
+            "ucret": 2500.0,
+            "kiralama_durumu": false
+        }
+    },
+    "musteriler": {
+        "1": {
+            "ad": "KEREM"
+        },
+        "2": {
+            "ad": "YUSUF"
+        },
+        "3": {
+            "ad": "ERDEM"
+        },
+        "4": {
+            "ad": "MERT"
+        },
+        "5": {
+            "ad": "SAL\u0130H"
+        },
+        "6": {
+            "ad": "HASAN"
+        }
+    },
+    "kiralamalar": [
+        {
+            "musteri_id": "1",
+            "musteri_ad": "KEREM",
+            "arac_id": "2",
+            "arac_model": "LAMBORGH\u0130N\u0130",
+            "ucret": 5000.0,
+            "baslangic": "2025-05-30",
+            "bitis": "2025-06-10"
+        },
+        {
+            "musteri_id": "2",
+            "musteri_ad": "YUSUF",
+            "arac_id": "4",
+            "arac_model": "RENAULT",
+            "ucret": 500.0,
+            "baslangic": "2025-05-26",
+            "bitis": "2025-06-04"
+        },
+        {
+            "musteri_id": "3",
+            "musteri_ad": "ERDEM",
+            "arac_id": "1",
+            "arac_model": "BMW",
+            "ucret": 2000.0,
+            "baslangic": "2025-06-01",
+            "bitis": "2025-06-15"
+        }
+    ]
+}
